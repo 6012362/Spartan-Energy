@@ -64,6 +64,7 @@
 </section>
         </article>
         <footer id="footer">
+          <p>blabla</p>
             <p id="copyright">©Copyright</p>
             <a href="https://www.instagram.com/spartanenergy_motorcross/" target="blank"><img id="insta" src="Images/Insta.png"></>
         </footer>
